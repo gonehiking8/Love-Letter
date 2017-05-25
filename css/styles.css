@@ -9,3 +9,15 @@
 #love {
   color: red;
 }
+
+.text {
+    text-shadow: -1px -1px 0 #ffffff,
+    1px -1px 0 #ffffff,
+    -1px 1px 0 #ffffff,
+    1px 1px 0 #ffffff;
+}
+
+h1 {
+  font-style: italic;
+  font-weight: 600;
+}
